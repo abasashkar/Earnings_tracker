@@ -58,7 +58,7 @@ Robust network operations for seamless API integration.
 <img src="screenshots/chartscreen.png" alt="Earning Graph" width="600"/>
 
 ### Earnings Transcript
-<img src="screenshots/transcript.png" alt="Earnings Transcript" width="600"/>
+<img src="screenshots/Simulator Screen Shot - iPhone 14 Pro Max - 2024-11-01 at 14.01.32 copy.png" alt="Earnings Transcript" width="600"/>
 
 
 
