@@ -51,15 +51,6 @@ Robust network operations for seamless API integration.
 
 
 
-### Main Screen
-<img src="screenshots/mainscreen.png" alt="Main Screen" width="600"/>
-
-### Earnings Graph
-<img src="screenshots/chartscreen.png" alt="Earning Graph" width="600"/>
-
-### Earnings Transcript
-<img src="screenshots/Simulator Screen Shot - iPhone 14 Pro Max - 2024-11-01 at 14.01.32 copy.png" alt="Earnings Transcript" width="600"/>
-
 
 
 
